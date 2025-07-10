@@ -1,0 +1,50 @@
+1001|C++ Primer|Stanley Lippman|Programming|0
+1002|The Alchemist|Paulo Coelho|Fiction|0
+1003|Clean Code|Robert C. Martin|Programming|0
+1004|The Pragmatic Programmer|Andrew Hunt|Programming|0
+1005|Harry Potter|J.K. Rowling|Fantasy|0
+1006|The Hobbit|J.R.R. Tolkien|Fantasy|0
+1007|To Kill a Mockingbird|Harper Lee|Fiction|0
+1008|1984|George Orwell|Dystopian|0
+1009|The Great Gatsby|F. Scott Fitzgerald|Classic|0
+1010|Pride and Prejudice|Jane Austen|Romance|0
+1011|Data Structures in C|Reema Thareja|Programming|0
+1012|Cracking the Coding Interview|Gayle Laakmann McDowell|Programming|0
+1013|Algorithms|Robert Sedgewick|Programming|0
+1014|Deep Work|Cal Newport|Productivity|0
+1015|Atomic Habits|James Clear|Self-help|0
+1016|Think and Grow Rich|Napoleon Hill|Self-help|0
+1017|The Power of Now|Eckhart Tolle|Spirituality|0
+1018|Rich Dad Poor Dad|Robert Kiyosaki|Finance|0
+1019|The Intelligent Investor|Benjamin Graham|Finance|0
+1020|Introduction to Algorithms|CLRS|Programming|0
+1021|Operating System Concepts|Silberschatz|Computer Science|0
+1022|Computer Networks|Andrew S. Tanenbaum|Computer Science|0
+1023|Database System Concepts|Henry F. Korth|Computer Science|0
+1024|Machine Learning|Tom M. Mitchell|AI|0
+1025|Artificial Intelligence|Stuart Russell|AI|0
+1026|Zero to One|Peter Thiel|Business|0
+1027|The Lean Startup|Eric Ries|Business|0
+1028|Start With Why|Simon Sinek|Motivational|0
+1029|The Psychology of Money|Morgan Housel|Finance|0
+1030|Sapiens|Yuval Noah Harari|History|0
+1031|Homo Deus|Yuval Noah Harari|History|0
+1032|Educated|Tara Westover|Biography|0
+1033|Becoming|Michelle Obama|Biography|0
+1034|Steve Jobs|Walter Isaacson|Biography|0
+1035|Elon Musk|Ashlee Vance|Biography|0
+1036|The Catcher in the Rye|J.D. Salinger|Classic|0
+1037|Brave New World|Aldous Huxley|Dystopian|0
+1038|Fahrenheit 451|Ray Bradbury|Dystopian|0
+1039|The Fault in Our Stars|John Green|Romance|0
+1040|Me Before You|Jojo Moyes|Romance|0
+1041|Gone Girl|Gillian Flynn|Thriller|0
+1042|The Girl on the Train|Paula Hawkins|Thriller|0
+1043|The Da Vinci Code|Dan Brown|Thriller|0
+1044|Angels and Demons|Dan Brown|Thriller|0
+1045|Inferno|Dan Brown|Thriller|0
+1046|Digital Fortress|Dan Brown|Thriller|0
+1047|The Silent Patient|Alex Michaelides|Mystery|0
+1048|The Midnight Library|Matt Haig|Fiction|0
+1049|Verity|Colleen Hoover|Thriller|0
+1050|It Ends with Us|Colleen Hoover|Romance|0
